@@ -1,0 +1,41 @@
+# Teste do verificador de senhas:
+
+ Senha 1: anakarenina
+ Resultado: senha forte
+
+ Senha 2: 12345
+ Resultado: senha fraca
+
+ Senha 3: blackwolf12345
+ Resultado: senha forte
+
+ Senha 4: www
+ Resultado: senha fraca
+
+ Senha 5: josesaramago
+ Resultado: senha forte
+
+ Senha 6: 54321
+ Resultado: senha fraca
+
+ Senha 7: password
+ Resultado: senha fraca
+
+ Senha 8: ana12345%$#@!
+ Resultado: senha forte
+
+ Senha 9: Luc345
+ Resultado: senha fraca
+
+ Senha 10: @#$%$#@!@$%%&
+ Resultado: senha forte
+
+Quantidade de senhas fracas: 5
+
+Lista de senhas fracas:
+
+12345
+www
+54321
+password
+Luc345
