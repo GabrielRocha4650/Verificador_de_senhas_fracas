@@ -15,3 +15,6 @@ O programa verifica se as senhas digitadas pelo usuário são fracas ou não atr
 2 - Ou se as senhas forem exatamente iguais a que estão na lista de senhas fracas do código-fonte.
 
 
+## Conceitos chave de Python:
+
+Entrada e saída de dados,lacos de repeticao,funcões e estrutura de dados.
