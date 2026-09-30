@@ -1,0 +1,1 @@
+# Projeto-python--erificados-de-senhas-fracas
